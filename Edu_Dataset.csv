@@ -1,0 +1,311 @@
+  Gender,Old,Li.Fa,Mb.Fa,Arr.Bro,      PaMaS   ,  Fajob, MoJob, Fa.tedu, Mo.edu,  Bro.Edu,            Acad.Bra.  ,AcCoHm , AcInHm ,ReCoMath,Descmood, behavior ,phrDesc,distingYou, desComSty,ShFeel,InteWCo,DeDuties,DealAbus,FeHumLa, FeDoSo, IWitFr,CompTest  ,MathTest ,CompFS.theo.70,CompFS.pr.30,CompFS/100,MathFirstS 
+Male,16-17,Yes,4  To 6,Second,Widower,Teacher,Teacher,Secondary,Medium,Secondary,scientific,Yes,No,Yes,3,1,1,2,3,2,1,2,3,4,1,4,13,8,45,22,67,65
+Male,14-15,Yes,4  To 6,Third,Married,Health professionals,Teacher,Institution,Institution,I am biggest brother,scientific,Yes,Yes,Yes,1,2,3,2,2,1,3,3,3,4,1,2,11,7,45,21,66,75
+Male,14-15,Yes,4  To 6,Fourth,Married,Health professionals,Teacher,diploma,diploma,Secondary,scientific,Yes,No,Rather Yes,4,1,3,2,3,4,3,1,3,4,1,4,7,8,47,19,66,82
+Male,14-15,Yes,7  To 9,Third,Married,Teacher,Industrial professions,Medium,Secondary,I am biggest brother,scientific,Yes,Yes,Yes,3,2,1,2,2,4,3,2,3,4,3,3,8,3,58,18,76,52
+Female,More 17,Yes,7  To 9,Third,Married,Health professionals,Teacher,diploma,diploma,Postgraduate,literary,Yes,Yes,Yes,1,4,1,3,2,4,1,2,4,4,3,2,10,5,55,18,73,61
+Male,16-17,Yes,More 9,Fourth,Divorce,Industrial professions,Industrial professions,Secondary,diploma,I am biggest brother,scientific,Yes,No,Rather Yes,3,4,4,4,4,3,2,3,4,4,3,4,13,4,49,20,69,45
+Female,More 17,Yes,4  To 6,Sixth,Married,Health professionals,Teacher,diploma,B.Sc,Postgraduate,scientific,No,No,Rather Yes,1,2,2,1,4,3,4,4,4,2,1,3,10,7,60,20,80,65
+Female,More 17,Yes,More 9,Fourth,Married,Worker,Teacher,diploma,Secondary,Postgraduate,scientific,Yes,Yes,Yes,2,2,2,3,2,2,4,2,1,3,1,2,5,3,37,15,52,33
+Male,16-17,Yes,4  To 6,First,Widower,Worker,Housewife,Primary,Medium,I am biggest brother,scientific,No,Yes,Yes,2,2,3,2,2,1,1,3,1,2,1,3,5,5,35,15,50,55
+Male,More 17,Yes,4  To 6,Second,Divorce,Industrial professions,Health professionals,Primary,diploma,I am biggest brother,scientific,No,Yes,do not have idea,1,2,1,1,3,3,1,4,4,3,1,3,7,5,42,16,58,64
+Male,16-17,Yes,7  To 9,Eighth,Married,Teacher,Housewife,Postgraduate,No Education,I am biggest brother,scientific,Yes,Yes,Rather Yes,1,1,3,2,3,1,2,3,4,3,3,3,10,5,55,19,74,58
+Male,16-17,Yes,4  To 6,Seventh,Married,Others,Housewife,diploma,No Education,Secondary,scientific,Yes,Yes,Rather Yes,3,1,4,3,3,1,3,3,4,3,1,3,7,6,44,20,64,76
+Male,16-17,Yes,4  To 6,Third,Married,Worker,Housewife,Primary,Medium,Secondary,scientific,No,Yes,Rather Yes,4,1,4,4,2,2,1,4,4,4,1,3,9,8,46,17,63,65
+Male,16-17,Yes,7  To 9,First,Married,Worker,Housewife,Primary,Medium,Medium,scientific,No,Yes,Rather Yes,2,4,3,2,1,2,3,4,2,4,1,3,7,8,50,14,64,55
+Male,16-17,Yes,4  To 6,First,Married,Others,Other,Medium,Secondary,I am biggest brother,scientific,Yes,Yes,Yes,4,2,2,4,3,1,3,3,2,3,3,3,7,5,39,18,57,35
+Male,16-17,Yes,4  To 6,Third,Widower,Worker,Other,Medium,Medium,Medium,scientific,Yes,Yes,Rather Yes,3,2,3,2,2,2,3,3,1,3,1,3,9,7,39,15,54,65
+Male,16-17,Yes,4  To 6,Fourth,Married,Others,Teacher,B.Sc,B.Sc,B.Sc,scientific,Yes,Yes,Rather Yes,1,1,3,1,1,2,4,4,1,4,3,3,6,8,41,17,58,70
+Male,14-15,Yes,7  To 9,Fifth,Married,"Military, Policeman",Teacher,Postgraduate,diploma,Postgraduate,scientific,Yes,Yes,Yes,2,1,3,1,3,1,1,2,3,3,1,2,8,8,60,20,80,61
+Male,16-17,Yes,4  To 6,Sixth,Married,Teacher,Industrial professions,Medium,diploma,Postgraduate,scientific,Yes,Yes,Rather Yes,3,2,2,2,1,2,3,3,4,4,3,3,9,10,52,20,72,81
+Male,16-17,Yes,7  To 9,Fifth,Married,Worker,Teacher,B.Sc,B.Sc,B.Sc,scientific,No,Yes,do not have idea,2,4,4,1,1,1,1,4,2,4,4,3,8,8,36,13,49,79
+Male,More 17,Yes,4  To 6,Second,Widower,Others,Industrial professions,Secondary,Medium,Medium,scientific,Yes,Yes,Yes,1,2,3,1,4,2,1,4,1,4,3,3,7,12,41,18,59,78
+Male,16-17,Yes,4  To 6,Third,Married,Worker,Other,Secondary,Secondary,diploma,scientific,Yes,Yes,Rather Yes,2,1,1,2,2,2,3,3,3,3,1,3,10,7,65,19,84,65
+Male,More 17,Yes,4  To 6,Fifth,Married,Worker,Other,Primary,No Education,Secondary,scientific,No,No,do not have idea,1,4,4,4,1,2,2,4,2,4,2,3,10,5,63,15,78,54
+Male,16-17,Yes,More 9,Seventh,Married,Health professionals,Other,Postgraduate,Primary,B.Sc,scientific,Yes,Yes,Rather Yes,3,1,1,3,1,3,4,4,4,3,1,2,9,7,58,20,78,71
+Male,16-17,Yes,4  To 6,Third,Married,"Military, Policeman",Other,Secondary,Primary,Medium,scientific,Yes,Yes,Rather Yes,1,4,1,1,2,1,3,3,3,2,2,1,9,6,49,22,71,63
+Male,14-15,Yes,4  To 6,Third,Divorce,Worker,Housewife,Primary,Medium,Secondary,literary,No,No,Rather Yes,4,3,2,4,2,3,4,3,3,4,3,2,9,5,57,15,72,60
+Male,More 17,Yes,More 9,Fifth,Married,Worker,Housewife,Secondary,No Education,Primary,scientific,Yes,No,Rather Yes,3,3,2,4,1,1,4,4,3,4,4,3,10,3,66,15,81,23
+Male,16-17,Yes,7  To 9,Eighth,Married,Teacher,Other,Medium,No Education,diploma,scientific,No,Yes,Yes,2,1,3,2,2,1,1,3,2,2,1,3,8,10,38,13,51,55
+Male,16-17,Yes,4  To 6,Fourth,Married,Worker,Teacher,Primary,B.Sc,B.Sc,scientific,Yes,Yes,do not have idea,1,2,3,1,1,2,2,3,1,4,1,1,7,6,39,20,59,45
+Male,More 17,Yes,4  To 6,Fifth,Married,Worker,Housewife,Primary,No Education,Medium,scientific,No,No,do not have idea,1,4,4,4,1,2,2,4,2,4,2,3,9,7,60,18,78,62
+Male,16-17,Yes,4  To 6,Third,Married,Worker,Other,Medium,Medium,diploma,scientific,Yes,Yes,Rather Yes,2,1,1,2,2,2,3,3,2,3,1,1,9,8,66,22,88,76
+Male,16-17,Yes,4  To 6,Third,Married,"Military, Policeman",Housewife,Secondary,Primary,Secondary,scientific,Yes,Yes,Rather Yes,1,4,1,1,2,1,3,3,3,2,2,1,10,7,52,22,74,76
+Male,16-17,Yes,More 9,Seventh,Married,Health professionals,Housewife,Postgraduate,Primary,diploma,scientific,Yes,Yes,Rather Yes,3,1,1,3,1,3,4,4,4,3,1,2,9,7,57,25,82,49
+Male,16-17,Yes,4  To 6,Second,Married,Worker,Housewife,Primary,diploma,Postgraduate,scientific,No,No,do not have idea,1,2,3,1,1,2,2,4,1,4,1,1,10,9,39,20,59,72
+Male,More 17,Yes,4  To 6,Fifth,Married,Worker,Housewife,Primary,No Education,Secondary,scientific,No,No,do not have idea,1,4,4,4,1,2,2,4,2,4,2,3,9,6,45,15,60,65
+Male,16-17,Yes,7  To 9,Eighth,Married,Teacher,Other,Medium,diploma,B.Sc,scientific,No,Yes,Yes,2,1,3,2,2,1,1,3,2,2,1,3,9,10,33,13,46,55
+Male,14-15,No,7  To 9,Third,Divorce,Worker,Housewife,Primary,Secondary,B.Sc,scientific,No,No,Yes,4,3,2,4,4,3,2,3,3,2,2,2,15,5,60,18,78,52
+Male,16-17,Yes,4  To 6,Fifth,Married,Teacher,Housewife,B.Sc,Secondary,Secondary,literary,Yes,Yes,Rather Yes,1,2,1,1,2,1,1,3,3,4,1,2,10,7,58,22,80,81
+Female,More 17,Yes,7  To 9,Fifth,Divorce,Health professionals,Industrial professions,diploma,B.Sc,B.Sc,scientific,Yes,No,Rather Yes,4,3,4,4,3,3,3,2,3,2,1,3,8,5,25,25,50,49
+Female,More 17,No,7  To 9,Fourth,Divorce,Health professionals,Housewife,B.Sc,B.Sc,B.Sc,scientific,Yes,No,Rather Yes,1,2,4,2,1,1,3,3,3,2,1,2,13,6,61,19,80,53
+Male,16-17,No,4  To 6,Fifth,Widower,Industrial professions,Industrial professions,Secondary,No Education,B.Sc,literary,Yes,Yes,Yes,1,2,2,4,1,1,3,3,4,3,2,3,10,5,65,24,89,42
+Female,16-17,Yes,4  To 6,Third,Divorce,Industrial professions,Other,B.Sc,No Education,Secondary,literary,No,No,Yes,1,2,2,2,4,3,4,4,2,4,1,1,14,5,66,20,86,60
+Female,More 17,Yes,7  To 9,First,Married,Worker,Teacher,Primary,B.Sc,Primary,scientific,Yes,Yes,Yes,1,1,2,2,2,4,2,2,4,4,3,1,7,5,47,20,67,60
+Female,16-17,Yes,1 To 3,First,Married,Teacher,Housewife,Primary,B.Sc,Primary,scientific,Yes,Yes,Yes,2,2,2,3,2,4,1,4,1,3,1,2,7,8,45,19,64,52
+Female,14-15,Yes,More 9,First,Divorce,Teacher,Health professionals,diploma,B.Sc,Primary,scientific,No,Yes,Yes,2,1,1,1,1,2,1,4,3,2,3,2,9,4,35,19,54,44
+Female,16-17,Yes,1 To 3,Third,Married,Worker,Housewife,Primary,No Education,Primary,scientific,Yes,Yes,Yes,1,1,1,4,2,2,2,3,1,4,1,1,8,7,49,25,74,68
+Female,14-15,Yes,7  To 9,Third,Married,"Military, Policeman",Teacher,Secondary,diploma,Secondary,scientific,Yes,Yes,Yes,1,1,2,2,1,3,2,2,1,3,1,2,7,6,56,26,82,50
+Female,More 17,Yes,1 To 3,Third,Married,Health professionals,Health professionals,diploma,diploma,B.Sc,scientific,Yes,Yes,Yes,1,2,3,1,2,1,4,4,1,2,1,2,8,8,52,25,77,53
+Male,16-17,Yes,1 To 3,Sixth,Married,Teacher,Housewife,B.Sc,No Education,B.Sc,scientific,Yes,No,Rather Yes,1,4,3,3,3,2,4,3,3,3,2,1,10,8,49,30,79,67
+Male,More 17,Yes,7  To 9,Second,Married,Industrial professions,Health professionals,Primary,diploma,I am biggest brother,scientific,No,Yes,do not have idea,1,2,1,1,3,4,1,4,4,3,1,3,9,7,35,10,45,55
+Male,16-17,Yes,7  To 9,Sixth,Married,Teacher,Industrial professions,diploma,Medium,B.Sc,scientific,Yes,Yes,Rather Yes,3,2,3,2,1,2,3,3,4,4,3,3,11,7,52,21,73,65
+Male,14-15,Yes,7  To 9,Fifth,Married,"Military, Policeman",Teacher,Postgraduate,diploma,Postgraduate,scientific,Yes,Yes,Yes,2,1,3,1,3,1,1,2,3,3,1,2,9,9,40,14,54,82
+Male,More 17,Yes,7  To 9,Fourth,Married,Teacher,Health professionals,B.Sc,diploma,B.Sc,scientific,Yes,Yes,Yes,1,4,1,3,1,2,4,4,1,4,2,2,7,6,40,19,59,75
+Male,More 17,Yes,4  To 6,Second,Married,Others,Health professionals,Medium,Medium,Medium,scientific,Yes,No,Yes,1,2,3,1,4,2,1,4,1,4,3,3,7,9,46,24,70,85
+Male,16-17,Yes,7  To 9,First,Married,Worker,Other,Primary,Medium,I am biggest brother,scientific,No,Yes,Rather Yes,1,3,2,1,1,1,3,4,1,4,2,1,5,8,52,20,72,52
+Male,More 17,Yes,7  To 9,First,Divorce,"Military, Policeman",Housewife,Medium,Medium,I am biggest brother,scientific,Yes,Yes,Rather Yes,4,4,2,3,2,2,3,3,3,2,2,2,12,8,66,25,91,72
+Female,14-15,Yes,7  To 9,Third,Married,Worker,Housewife,Medium,Secondary,Medium,scientific,No,Yes,Rather Yes,3,1,3,4,3,1,1,4,1,2,2,3,11,11,39,14,53,90
+Female,14-15,Yes,7  To 9,Fifth,Married,"Military, Policeman",Housewife,Primary,Primary,Primary,scientific,Yes,Yes,Rather Yes,3,3,4,3,2,1,4,2,3,2,3,3,6,7,45,12,57,59
+Female,16-17,No,4  To 6,Fifth,Married,Others,Housewife,Medium,Medium,diploma,scientific,Yes,Yes,do not have idea,1,3,3,2,1,1,2,3,2,4,2,3,11,8,65,19,84,85
+Female,14-15,Yes,4  To 6,Fourth,Married,Teacher,Housewife,diploma,Medium,Secondary,scientific,No,Yes,Yes,1,1,3,2,4,2,2,2,2,2,3,2,10,10,45,13,58,75
+Female,14-15,Yes,4  To 6,Fifth,Married,Others,Housewife,diploma,diploma,B.Sc,scientific,Yes,Yes,Yes,1,1,4,1,3,2,2,2,2,4,4,1,9,10,45,17,62,74
+Female,16-17,Yes,4  To 6,Second,Married,Health professionals,Housewife,diploma,Medium,Secondary,scientific,Yes,Yes,Rather Yes,3,1,2,2,2,4,4,4,1,4,1,4,11,10,44,29,73,81
+Female,14-15,Yes,7  To 9,First,Married,Worker,Housewife,Medium,Primary,I am biggest brother,scientific,Yes,Yes,Rather Yes,1,1,1,4,4,4,3,4,1,4,3,3,7,6,54,17,71,65
+Female,16-17,Yes,More 9,Fifth,Married,Others,Housewife,Postgraduate,Medium,Secondary,scientific,Yes,Yes,do not have idea,1,1,4,2,3,1,1,3,3,4,4,3,7,5,52,18,70,66
+Female,16-17,Yes,4  To 6,Second,Married,Worker,Housewife,diploma,Secondary,Primary,scientific,Yes,Yes,Rather Yes,1,1,3,2,3,3,3,3,1,4,1,3,10,7,35,18,53,56
+Female,16-17,Yes,4  To 6,Third,Married,"Military, Policeman",Housewife,Medium,Medium,Medium,scientific,Yes,Yes,Rather Yes,1,2,1,3,3,3,1,3,2,3,1,2,6,5,57,22,79,45
+Female,14-15,Yes,4  To 6,Third,Married,Teacher,Housewife,B.Sc,Secondary,B.Sc,scientific,Yes,Yes,Rather Yes,3,2,4,3,4,3,2,2,4,3,4,3,10,10,66,26,92,62
+Female,16-17,Yes,4  To 6,Third,Married,Worker,Housewife,B.Sc,Secondary,Secondary,scientific,No,Yes,Rather Yes,4,4,4,1,3,1,1,4,4,2,4,1,8,6,59,21,80,57
+Female,16-17,Yes,4  To 6,Third,Married,Worker,Housewife,Postgraduate,Secondary,B.Sc,scientific,Yes,Yes,Rather Yes,3,4,4,2,1,2,3,4,4,4,3,1,8,10,40,25,65,85
+Female,16-17,Yes,7  To 9,Fourth,Married,Worker,Housewife,Primary,Primary,Primary,scientific,No,No,Rather Yes,1,2,3,2,2,1,3,4,2,4,1,3,9,9,40,14,54,75
+Female,16-17,Yes,7  To 9,Tenth,Widower,Teacher,Housewife,diploma,Primary,Postgraduate,scientific,Yes,Yes,Rather Yes,1,4,2,3,2,2,3,3,3,4,2,1,6,7,45,19,64,65
+Female,14-15,Yes,7  To 9,Fourth,Married,Worker,Housewife,Medium,Secondary,No Education,scientific,No,Yes,Rather Yes,4,4,1,3,3,1,2,4,2,2,2,3,6,7,59,22,81,66
+Female,16-17,Yes,7  To 9,Fourth,Married,Worker,Housewife,Secondary,Secondary,Secondary,scientific,No,No,do not have idea,1,2,3,3,4,4,4,4,4,4,3,3,7,3,40,17,57,45
+Female,16-17,Yes,More 9,Eighth,Married,Worker,Housewife,Medium,Medium,Secondary,scientific,Yes,Yes,Yes,1,1,3,1,2,4,1,3,2,4,2,1,12,6,52,28,80,65
+Female,More 17,Yes,4  To 6,Fifth,Married,Teacher,Teacher,diploma,diploma,Secondary,scientific,Yes,Yes,Rather Yes,1,2,2,1,1,3,2,2,3,4,4,3,8,6,47,24,71,57
+Female,16-17,Yes,4  To 6,Second,Married,Industrial professions,Teacher,Medium,Medium,Medium,scientific,Yes,Yes,Yes,3,2,4,3,2,1,1,3,2,4,3,3,10,3,55,24,79,40
+Female,16-17,Yes,7  To 9,Sixth,Married,Worker,Housewife,Primary,Primary,Primary,scientific,No,Yes,Rather Yes,3,4,4,2,1,1,4,2,2,4,4,2,6,7,44,17,61,66
+Female,14-15,Yes,7  To 9,Second,Married,Industrial professions,Housewife,Secondary,Medium,Medium,scientific,No,No,Rather Yes,3,3,1,3,4,3,3,4,3,3,1,3,5,7,45,15,60,75
+Female,14-15,Yes,7  To 9,Fourth,Married,Others,Other,diploma,B.Sc,B.Sc,scientific,Yes,Yes,Rather Yes,1,2,4,2,3,1,2,4,2,2,1,3,8,3,55,19,74,31
+Female,More 17,Yes,4  To 6,First,Married,Others,Housewife,Medium,No Education,Medium,scientific,Yes,Yes,Yes,1,4,4,2,4,4,2,4,3,2,3,3,8,9,38,25,63,92
+Female,14-15,Yes,4  To 6,Fourth,Married,Worker,Housewife,Medium,Medium,Primary,scientific,Yes,Yes,Rather Yes,2,4,1,3,2,1,4,4,1,3,1,3,7,7,40,17,57,54
+Female,14-15,Yes,4  To 6,Second,Married,Industrial professions,Teacher,Secondary,Secondary,Medium,scientific,No,Yes,do not have idea,2,2,4,3,4,1,1,3,1,3,1,2,12,11,30,19,49,86
+Female,16-17,Yes,7  To 9,Second,Married,Worker,Housewife,Medium,Medium,Secondary,scientific,Yes,Yes,do not have idea,1,4,4,2,4,2,3,2,4,4,1,3,8,9,32,18,50,85
+Female,16-17,Yes,4  To 6,First,Married,Teacher,Industrial professions,diploma,diploma,Medium,scientific,Yes,Yes,Rather Yes,4,2,2,1,4,1,3,4,4,4,4,1,7,8,53,23,76,65
+Female,16-17,Yes,4  To 6,First,Married,Teacher,Teacher,Secondary,Medium,I am biggest brother,scientific,Yes,Yes,do not have idea,1,4,4,3,3,4,2,3,4,4,4,3,9,6,25,28,53,49
+Female,16-17,Yes,7  To 9,Fifth,Married,Worker,Housewife,diploma,No Education,Secondary,scientific,No,Yes,Rather Yes,2,1,1,4,2,3,3,2,2,4,2,1,9,9,48,19,67,85
+Female,16-17,Yes,4  To 6,First,Married,Worker,Housewife,diploma,Secondary,I am biggest brother,scientific,Yes,Yes,Rather Yes,3,1,1,2,3,1,3,3,4,4,1,3,11,8,65,18,83,65
+Female,16-17,Yes,4  To 6,Third,Married,Others,Other,Secondary,Secondary,B.Sc,scientific,Yes,Yes,Rather Yes,1,1,4,3,1,1,3,4,4,4,1,1,8,8,52,12,64,70
+Female,14-15,Yes,4  To 6,First,Married,Others,Housewife,B.Sc,No Education,I am biggest brother,scientific,Yes,Yes,do not have idea,1,4,2,4,1,4,2,4,4,4,4,1,7,9,45,25,70,66
+Female,14-15,No,7  To 9,Fourth,Married,Worker,Housewife,No Education,No Education,diploma,scientific,No,Yes,do not have idea,1,3,2,4,4,2,4,4,4,4,3,1,8,6,45,20,65,73
+Female,16-17,Yes,7  To 9,Second,Married,Others,Housewife,Medium,No Education,Secondary,scientific,No,Yes,do not have idea,3,1,1,2,2,1,2,2,1,4,4,1,13,5,62,13,75,40
+Female,16-17,Yes,7  To 9,Fifth,Married,Worker,Housewife,Medium,Medium,Primary,scientific,Yes,Yes,Yes,2,4,4,4,3,3,2,3,4,4,1,3,7,6,51,17,68,55
+Female,14-15,Yes,7  To 9,Second,Married,"Military, Policeman",Housewife,B.Sc,Secondary,Secondary,scientific,Yes,Yes,do not have idea,3,1,1,2,4,1,1,4,4,3,3,3,9,10,39,20,59,75
+Female,16-17,Yes,4  To 6,Second,Married,Worker,Housewife,Primary,B.Sc,I am biggest brother,scientific,Yes,Yes,Rather Yes,2,3,1,3,2,1,1,3,2,4,3,3,8,7,47,20,67,61
+Female,More 17,Yes,7  To 9,Fourth,Married,Worker,Housewife,Primary,Primary,diploma,scientific,No,No,Yes,1,4,2,1,4,2,4,2,4,4,4,3,8,7,32,22,54,70
+Female,16-17,Yes,4  To 6,Fifth,Married,Industrial professions,Industrial professions,Postgraduate,Postgraduate,Postgraduate,scientific,Yes,Yes,Rather Yes,1,1,1,2,3,1,1,3,2,4,1,1,12,9,45,28,73,85
+Female,14-15,Yes,7  To 9,First,Married,"Military, Policeman",Housewife,No Education,No Education,I am biggest brother,scientific,No,Yes,do not have idea,3,1,4,1,1,3,2,4,4,4,2,1,7,4,43,21,64,52
+Female,16-17,Yes,4  To 6,First,Married,"Military, Policeman",Housewife,Primary,Medium,No Education,scientific,Yes,Yes,Yes,1,2,4,3,2,1,3,3,2,4,1,2,7,6,52,25,77,74
+Female,16-17,Yes,7  To 9,Fifth,Married,"Military, Policeman",Housewife,Medium,Primary,Medium,scientific,Yes,Yes,Rather Yes,2,2,2,2,2,3,4,3,4,3,1,2,9,9,40,29,69,77
+Female,16-17,Yes,7  To 9,Sixth,Married,Industrial professions,Other,diploma,diploma,diploma,scientific,Yes,Yes,Rather Yes,2,1,4,1,3,1,2,3,2,4,4,3,11,9,45,13,58,80
+Female,16-17,Yes,4  To 6,Third,Married,Worker,Housewife,Primary,Primary,Primary,scientific,Yes,Yes,Rather Yes,4,4,4,2,1,4,2,3,4,4,2,3,12,5,55,19,74,45
+Female,16-17,Yes,4  To 6,Sixth,Divorce,Others,Industrial professions,Medium,Secondary,diploma,scientific,Yes,Yes,Yes,1,4,4,2,1,3,3,3,1,4,3,1,9,11,55,18,73,85
+Female,16-17,Yes,7  To 9,Second,Married,"Military, Policeman",Housewife,Medium,Primary,Secondary,scientific,No,Yes,Rather Yes,1,1,1,2,1,3,2,2,1,4,1,4,12,10,63,19,82,74
+Female,16-17,Yes,4  To 6,Third,Married,Worker,Housewife,Secondary,Secondary,Secondary,scientific,No,Yes,Rather Yes,1,1,1,1,1,4,2,2,4,4,2,1,12,7,52,20,72,66
+Female,16-17,Yes,7  To 9,Second,Married,Others,Housewife,Secondary,B.Sc,Medium,scientific,Yes,Yes,Yes,3,1,4,3,1,3,3,3,1,4,1,1,12,5,45,22,67,48
+Female,14-15,Yes,7  To 9,First,Married,"Military, Policeman",Housewife,Primary,Primary,Medium,scientific,No,No,Rather Yes,1,4,3,2,4,3,3,2,4,4,1,3,13,7,44,20,64,74
+Female,16-17,Yes,1 To 3,First,Married,Worker,Housewife,Secondary,Secondary,I am biggest brother,scientific,Yes,Yes,Yes,3,1,4,3,1,3,1,2,4,4,3,3,12,7,44,18,62,59
+Female,16-17,Yes,4  To 6,Fourth,Married,Worker,Teacher,diploma,Primary,Secondary,scientific,Yes,Yes,Rather Yes,3,1,1,3,3,4,4,4,4,4,4,1,10,12,56,20,76,64
+Female,14-15,Yes,7  To 9,Eighth,Married,Worker,Teacher,B.Sc,Secondary,Primary,scientific,Yes,Yes,Rather Yes,1,1,3,2,2,2,2,3,4,2,1,3,7,10,35,19,54,71
+Female,16-17,Yes,More 9,Third,Married,Worker,Housewife,Primary,Primary,Primary,scientific,Yes,Yes,Yes,3,3,1,3,3,3,3,3,1,4,3,3,7,8,39,16,55,55
+Female,16-17,No,7  To 9,Sixth,Married,Worker,Health professionals,Secondary,Secondary,Postgraduate,scientific,Yes,Yes,Rather Yes,1,2,1,2,4,1,2,4,1,4,3,3,11,6,58,29,87,65
+Female,16-17,Yes,4  To 6,First,Married,Worker,Housewife,Secondary,Primary,I am biggest brother,scientific,No,Yes,Yes,1,3,2,1,4,3,4,4,4,4,2,4,11,8,34,19,53,48
+Female,14-15,Yes,7  To 9,Fifth,Married,"Military, Policeman",Housewife,Secondary,No Education,Medium,scientific,Yes,Yes,do not have idea,4,4,4,1,1,3,3,2,4,4,3,3,12,7,52,23,75,75
+Female,16-17,Yes,4  To 6,Fourth,Married,Others,Teacher,diploma,diploma,diploma,scientific,Yes,Yes,Rather Yes,1,4,4,4,1,3,2,3,3,4,3,1,12,7,45,22,67,48
+Female,14-15,Yes,7  To 9,Third,Married,Others,Teacher,B.Sc,B.Sc,B.Sc,scientific,Yes,Yes,Rather Yes,1,1,1,4,1,2,2,3,4,4,1,3,4,8,49,13,62,66
+Female,16-17,Yes,4  To 6,First,Married,Worker,Teacher,Medium,B.Sc,I am biggest brother,scientific,Yes,Yes,Rather Yes,1,2,4,3,4,2,3,3,2,4,1,3,11,6,45,19,64,56
+Female,14-15,Yes,4  To 6,Second,Married,Others,Teacher,diploma,Medium,diploma,scientific,Yes,Yes,Rather Yes,1,1,4,3,1,2,4,4,3,4,4,3,10,7,47,22,69,85
+Female,14-15,Yes,7  To 9,Fifth,Married,Worker,Housewife,Secondary,Medium,Medium,scientific,No,No,Rather Yes,2,1,1,3,2,3,2,3,4,4,2,3,12,6,52,18,70,52
+Female,16-17,Yes,4  To 6,Third,Married,Worker,Teacher,Primary,B.Sc,diploma,scientific,Yes,Yes,Yes,4,4,4,2,3,2,4,3,1,4,1,3,11,11,58,22,80,88
+Female,16-17,Yes,7  To 9,Second,Married,"Military, Policeman",Housewife,Medium,Secondary,Secondary,scientific,Yes,Yes,Rather Yes,1,1,3,2,2,2,2,3,2,4,1,3,10,8,58,22,80,85
+Female,14-15,Yes,4  To 6,Third,Married,Worker,Teacher,diploma,diploma,Medium,scientific,No,Yes,Rather Yes,1,1,4,2,1,3,3,4,4,4,1,1,8,11,40,25,65,81
+Female,16-17,Yes,7  To 9,Fourth,Married,Industrial professions,Housewife,B.Sc,Primary,Primary,scientific,No,No,Yes,3,4,4,2,1,2,4,3,3,4,1,3,6,7,40,18,58,55
+Female,14-15,Yes,1 To 3,Fourth,Married,Worker,Teacher,Secondary,Secondary,B.Sc,scientific,Yes,Yes,Rather Yes,1,4,3,3,2,1,2,3,4,4,1,3,8,9,46,25,71,82
+Female,16-17,Yes,7  To 9,Fifth,Married,Worker,Housewife,Secondary,Medium,Secondary,scientific,No,No,Rather Yes,1,1,1,3,3,1,3,2,4,4,2,2,5,10,45,10,55,60
+Female,16-17,Yes,4  To 6,Fourth,Married,Industrial professions,Housewife,Medium,Medium,Postgraduate,scientific,No,Yes,Rather Yes,1,3,2,2,3,3,4,4,4,4,2,2,4,9,26,16,42,73
+Female,14-15,Yes,4  To 6,Third,Married,"Military, Policeman",Housewife,No Education,B.Sc,B.Sc,scientific,Yes,Yes,Rather Yes,1,1,1,2,1,4,2,3,1,4,3,1,6,8,54,20,74,82
+Female,16-17,Yes,7  To 9,Fifth,Married,Others,Teacher,Secondary,diploma,Secondary,scientific,Yes,Yes,Yes,1,4,4,1,4,3,1,3,3,2,1,1,8,7,44,20,64,45
+Female,16-17,No,7  To 9,Fifth,Married,Others,Housewife,Secondary,Medium,Primary,scientific,Yes,Yes,Yes,4,2,3,3,4,3,2,2,4,4,2,3,8,10,32,19,51,88
+Female,More 17,Yes,4  To 6,Sixth,Married,Others,Housewife,B.Sc,Medium,diploma,scientific,Yes,Yes,Rather Yes,1,1,3,1,1,1,1,2,1,4,1,1,3,10,37,20,57,68
+Female,16-17,Yes,4  To 6,First,Married,Others,Other,Postgraduate,diploma,I am biggest brother,scientific,Yes,Yes,do not have idea,4,4,1,4,1,1,2,4,2,4,1,3,8,7,45,16,61,82
+Female,16-17,Yes,7  To 9,First,Divorce,Health professionals,Housewife,B.Sc,Medium,I am biggest brother,scientific,Yes,Yes,Yes,1,4,1,2,1,1,2,4,4,4,1,3,7,10,47,22,69,75
+Female,More 17,Yes,4  To 6,First,Married,"Military, Policeman",Housewife,Secondary,Secondary,I am biggest brother,scientific,No,Yes,Rather Yes,3,3,3,2,1,2,3,3,1,4,1,1,4,10,43,15,58,45
+Male,More 17,Yes,More 9,Fifth,Married,Worker,Other,diploma,No Education,Primary,scientific,Yes,No,Rather Yes,3,3,2,4,1,1,4,4,3,4,4,3,10,3,55,12,67,40
+Male,16-17,Yes,4  To 6,Third,Married,Worker,Other,Secondary,Secondary,diploma,literary,Yes,Yes,Rather Yes,2,1,1,2,2,2,3,3,2,3,1,3,9,9,48,22,70,82
+Male,16-17,Yes,4  To 6,Third,Married,"Military, Policeman",Other,Secondary,Primary,Medium,literary,Yes,Yes,Rather Yes,1,4,1,1,2,1,3,3,3,2,2,1,10,8,61,25,86,65
+Male,16-17,Yes,More 9,Seventh,Married,Health professionals,Other,Postgraduate,Primary,B.Sc,literary,Yes,Yes,Rather Yes,3,1,1,3,1,3,4,4,4,3,1,2,8,8,39,16,55,74
+Male,16-17,Yes,4  To 6,Second,Married,Worker,Housewife,Primary,B.Sc,Postgraduate,literary,Yes,Yes,do not have idea,1,2,3,1,1,2,2,4,1,4,1,1,9,9,52,19,71,78
+Male,More 17,Yes,4  To 6,Fifth,Married,Worker,Housewife,Primary,No Education,Secondary,literary,No,No,do not have idea,1,4,4,4,1,2,2,4,2,4,2,3,8,6,45,20,65,58
+Male,16-17,Yes,7  To 9,Eighth,Married,Teacher,Other,Medium,No Education,B.Sc,literary,No,Yes,Yes,2,1,3,2,2,1,1,3,2,2,1,2,8,10,39,19,58,65
+Male,16-17,Yes,4  To 6,First,Married,Others,Housewife,Medium,Secondary,I am biggest brother,literary,Yes,Yes,Yes,4,2,2,4,3,1,3,3,2,3,3,3,5,10,44,28,72,75
+Male,16-17,Yes,7  To 9,Fifth,Married,Others,Teacher,B.Sc,B.Sc,B.Sc,literary,No,Yes,do not have idea,2,4,4,1,1,1,1,4,2,4,4,3,6,7,54,19,73,65
+Male,16-17,Yes,4  To 6,Fourth,Married,Others,Teacher,B.Sc,Postgraduate,B.Sc,literary,Yes,Yes,Rather Yes,1,1,3,1,1,2,4,4,1,4,3,3,7,8,45,19,64,45
+Male,16-17,Yes,4  To 6,Third,Widower,Worker,Other,Secondary,Secondary,Medium,literary,Yes,Yes,Rather Yes,2,2,3,2,2,2,3,3,1,3,1,3,10,8,45,30,75,74
+Male,14-15,Yes,4  To 6,First,Widower,Worker,Housewife,Primary,Medium,I am biggest brother,literary,No,Yes,Yes,2,2,3,2,2,1,1,3,1,2,1,3,9,10,39,16,55,82
+Male,16-17,Yes,7  To 9,Eighth,Married,Others,Housewife,Postgraduate,No Education,Secondary,literary,Yes,Yes,Rather Yes,1,1,3,2,3,1,2,3,4,3,3,3,9,6,55,18,73,55
+Male,16-17,Yes,4  To 6,Seventh,Married,Others,Housewife,diploma,No Education,Secondary,literary,Yes,Yes,Rather Yes,1,1,4,3,3,1,3,3,4,3,1,3,7,2,57,16,73,35
+Male,More 17,Yes,4  To 6,Second,Married,Industrial professions,Health professionals,Primary,diploma,I am biggest brother,literary,No,Yes,do not have idea,1,2,1,1,3,4,1,4,4,3,1,3,8,7,57,20,77,56
+Male,16-17,Yes,7  To 9,Sixth,Married,Teacher,Industrial professions,diploma,Secondary,Postgraduate,literary,Yes,Yes,Rather Yes,3,2,3,2,1,2,3,3,4,4,3,3,11,9,65,20,85,52
+Male,16-17,Yes,7  To 9,First,Married,Worker,Other,Primary,Medium,I am biggest brother,literary,No,Yes,Rather Yes,2,4,3,3,1,2,3,4,2,4,1,3,5,8,58,12,70,85
+Male,More 17,Yes,4  To 6,Second,Widower,Others,Industrial professions,Secondary,Medium,Medium,literary,Yes,Yes,Yes,1,2,3,1,4,2,1,4,1,4,3,3,6,9,40,18,58,84
+Male,14-15,Yes,7  To 9,Fifth,Married,"Military, Policeman",Teacher,Postgraduate,diploma,Postgraduate,literary,No,Yes,Yes,2,1,3,1,3,1,1,2,3,3,1,2,6,8,40,13,53,58
+Male,14-15,Yes,4  To 6,First,Widower,Worker,Housewife,Primary,Medium,I am biggest brother,literary,No,Yes,Yes,2,2,3,2,2,1,1,3,1,2,1,3,9,11,49,13,62,79
+Male,More 17,Yes,4  To 6,Second,Widower,Others,Industrial professions,Secondary,Medium,Medium,literary,Yes,Yes,Yes,1,2,3,1,4,2,1,4,1,4,3,3,6,9,37,18,55,65
+Male,14-15,Yes,7  To 9,Fifth,Married,"Military, Policeman",Teacher,Postgraduate,diploma,Postgraduate,literary,No,Yes,Yes,2,1,3,1,3,1,1,2,3,3,1,2,8,8,49,22,71,55
+Male,16-17,Yes,7  To 9,First,Married,Worker,Other,Primary,Medium,I am biggest brother,literary,No,Yes,Rather Yes,2,4,3,2,1,2,3,4,2,4,1,1,5,7,40,13,53,39
+Male,16-17,Yes,7  To 9,Sixth,Married,Teacher,Industrial professions,diploma,Secondary,Postgraduate,literary,Yes,Yes,Rather Yes,3,1,3,2,1,2,3,3,4,4,3,3,11,7,45,22,67,85
+Male,More 17,Yes,4  To 6,Second,Married,Industrial professions,Health professionals,Primary,diploma,I am biggest brother,literary,No,Yes,do not have idea,1,2,1,1,3,4,1,4,4,3,1,3,8,7,61,19,80,75
+Male,16-17,Yes,4  To 6,Seventh,Married,Others,Housewife,diploma,No Education,Secondary,literary,Yes,Yes,Rather Yes,1,1,4,3,3,1,3,3,4,3,1,3,7,3,45,28,73,40
+Male,16-17,Yes,7  To 9,Eighth,Married,Others,Housewife,Postgraduate,No Education,Secondary,literary,Yes,Yes,Rather Yes,1,1,3,2,3,1,2,3,4,3,3,3,9,6,55,18,73,75
+Male,16-17,Yes,4  To 6,Seventh,Married,Others,Housewife,diploma,No Education,Secondary,literary,No,Yes,Rather Yes,1,1,4,3,3,1,3,3,4,3,1,3,7,3,57,15,72,38
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Male,72,,,,,,,,,,,,,,,,,,,,,,,,,,,Pass Exam,140,,
+,Female,88,,,,,,,,,,,,,,,,,,,,,,,,,Pass Test,74,Fail Exam,20,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Fail Test,86,,Pass Exam,155,
+,14-15,38,,,,,,,,,,,,,,,,,,,,,,,,,,Pass Exam,151,Fail Exam,4,
+,16-17,94,,,,,,,,,,,,,,,,,,,,,,,,,,Fail Exam,9,,,
+,More 17,28,,,,,,,,,,,,,,,,,,,,,,,,,Pass Test,108,,,Pass Exam,133
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Fail Test,52,,,Fail Exam,27
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Yes,153,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,No,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1 To 3,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,4  To 6,80,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,7  To 9,63,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,More 9,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,First,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Second,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Third,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Fourth,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Fifth,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Sixth,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Seventh,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Eighth,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Ninth,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Tenth,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,157,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Married,138,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Divorce,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Widower,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Teacher,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Health professionals,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"Military, Policeman",21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Industrial professions,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Worker,60,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Others,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,160,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Teacher,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Health professionals,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Industrial professions,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Worker,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Housewife,83,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Other,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,160,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,No Education,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Primary,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Medium,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Secondary,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,diploma,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,B.Sc,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Postgraduate,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,157,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,No Education,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Primary,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Medium,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Secondary,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,diploma,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,B.Sc,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Postgraduate,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,157,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,I am biggest brother,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,No Education,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Primary,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Medium,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Secondary,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,diploma,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,B.Sc,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Postgraduate,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,scientific,128,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,literary,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Yes,106,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,No,54,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Yes,134,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,No,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Yes,49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Rather Yes,85,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,No,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,do not have idea,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,160,Describe your usual mood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1,82,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,3,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,4,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,158,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
